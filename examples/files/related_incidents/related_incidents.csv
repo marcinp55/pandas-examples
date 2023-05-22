@@ -1,0 +1,10 @@
+key,end_user_id,fault,impact_start,impact_end,description
+T-1,1,Fault A,2023-05-05,2023-05-06,Original Incident A1
+T-2,1,Fault A,2023-05-07,2023-05-09,Related Incident A1-1
+T-3,1,Fault A,2023-05-10,2023-05-11,Related Incident A1-2
+T-4,1,Fault A,2023-05-13,2023-05-15,Related Incident A1-3
+T-5,1,Fault B,2023-05-06,2023-05-08,Original Incident B
+T-6,1,Fault B,2023-05-09,2023-05-12,Related Incident B-1
+T-7,1,Fault A,2023-06-13,2023-06-14,Original Incident A2
+T-8,1,Fault A,2023-06-16,2023-06-18,Related Incident A2-1
+T-9,1,Fault A,2023-06-19,2023-06-22,Related Incident A2-2
